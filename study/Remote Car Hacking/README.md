@@ -51,19 +51,14 @@ by Dr. Charlie Miller, Chris Valasek
     - 예를들어 앞 차가 감속을 하면 함께 감속을 시켜주고, 멈추면 함께 멈춰주고, 장애물이 사라지면 원래의 속도로 복구시켜주는 기능을 가지고 있다. 
 
 - **Forward Collision Warning Plus (FCW+)**
-
     - ACC랑 비슷한 역할을 수행하는데, ACC와는 다르게 일부러 끄지 않는이상 항상 켜져있다.
 
 - **Lane Departure Warning (LDW+)**
-
     - LDW+는 켜져있으면 차선을 유지할 수 있도록 도와준다.
-
     - 차선을 벗어나는것을 감지하면 바퀴를 제어해서 원래 차선을 유지하도록 한다.
 
 - **Park Assist System (PAM)**
-
     - 주차 도움 시스템.
-
     - 이 기능이 steering을 제어하기 위한 가장 쉬운 entry point가 될 것이라고 생각했으며 2012년의 연구를 통해 CAN 메세지만으로 자동차를 제어 할 수 있음을 증명했다.
 
 ### Remote Attack Surface
@@ -80,100 +75,45 @@ by Dr. Charlie Miller, Chris Valasek
 위의 항목들 뿐 아니라 모든 외부와 상호작용하는 기술을 잠재적 Entry Point로 여겨야 한다.
 
 - Passive Anti-Theft System (PATS)
-
     - 전송 받은 데이터는 id code와 RF 신호밖에 없었기 때문에 취약점을 찾지 못했다.
-
     - 게다가 취약점이 있다고 하더라도 센서에 근접해야만 하도록 설계되어있었다.
 
 - Tire Pressure Monitoring System (TPMS)
-
     - 각각의 타이어가 압력 센서를 가지고 있으며 실시간으로 ECU에 데이터를 보낸다.
-
     - Jeep 에서 센서는 RFHM(Radio Frequency Hub Module) 과 연결되어있다.
-
     - 타이어에 문제가 생기거나 TPMS 시스템에 문제가 생겼다고 생각하게하여 TPMS가 어떤 행위를 수행하도록 하는 연구는 진행된 바가 있다. 
-     
     - 해당 연구에서 연결된 ECU를 crash 시키거나, 원격으로 벽돌만들기를 할 수 있음을 보였다.
-
     - 코드 실행 가능성 측면에서는 매우 작은 attack surface지만, 원격으로 벽돌을 만든 사례는 데이터가 안전하지 않은 방식으로 처리됨을 의미한다.
 
 - Remote Keyless Entry/Start (RKE)
-
     - 차량의 ECU와 통신하는 단거리 무선 송신기가 포함되어 있다.
-
     - Jeep 에서는 RFHM이 해당 정보를 받는다.
-
     - 암호화 되어있기 때문에 이를 이용하여 공격하는 것은 거의 불가능하고 제한적이다.
 
 - Bluetooth
     + Jeep에서는 블루투스가 Radio(head unit)에 의해 수신되고 처리된다.
     + 이를 통해 주소록 엑세스, 전화걸기, 음악 스트리밍, SMS 등을 사용 할 수 있다.
     + 블루투스는 중요한 attack surface이다.
+    + 일반적으로 두 가지 공격 시나리오가 있다.
+        * 페어링 되지 않은 기기로부터의 공격: 매우 위험;;
+        * 페어링 된 기기에서 공격
 
 - Radio Data System
+    + Jeep에서 라디오는 GPS, AM/FM 라디오, 위성 라디오와 같은 원격 입력을 가지고 있다.
+    + 대부분의 경우 이 신호들은 단순히 음성으로 출력되기 때문에 취약점이 나오지 않을 수 있다.
+    + FM 아날로그 신호를 통해 보내지는 Radio Data System data는 예외가 될 수 있다.
 
 - Wi-Fi
+    - Jeep는 유료 Wi-Fi 핫스팟 기능 보유.
+    - Wi-Fi 보안 관련 해킹은 수년간 계속되어 왔다.
 
 - Telematics/Internet/Apps
+    - 텔레매틱스는 자동차 공격의 성배.
+    - CAN 버스에 직접 존재하지 않더라도, 마이크를 통해 데이터나 소리를 원격으로 통신 가능.
+    - Jeep에서는 이런 모든 기능에 CAN-IHS 버스랑 CAN-C 버스 모두에 연결되어있는 Radio에 의해 제어됨.
+    - Jeep Cherokee에서는 Infotainment 관련 모든 기능이 하나의 물리적 유닛에 위치한다는것이 문제.
+
 
 ```
-일단 생략
+이후 내용들은 추후에 업데이트....
 ```
-
-## Uconnect System
-
-### QNX Environment
-
-### File System and Services
-
-- IFS
-
-- ETFS
-
-- MMC
-
-- PPS
-
-### Wi-Fi
-
-- Encryption
-
-- Open ports
-
-### D-Bus Services
-
-### Cellular
-
-### CAN Connectivity
-
-## Jailbreaking Uconnect
-
-### Any Version
-
-### Version 14_05_03
-
-### Update Mode
-
-### Normal Mode
-
-## Exploiting the D-Bus Service
-
-### Gaining Code Execution
-
-## Uconnect attack payloads
-
-### GPS
-
-### HVAC
-
-### Radio Volume
-
-### Bass
-
-### Radio Station (FM)
-
-### Display
-
-- Change display to Picture
-
-### Knobs
