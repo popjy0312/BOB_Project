@@ -7,3 +7,6 @@ Play Store App 링크: [Android Auto App](https://play.google.com/store/apps/det
 
 (참고, 한국에서는 지원하지 않음.)
 
+20170904 기준 최신버전 v2.5.728603-release
+
+apk 파일 첨부.
