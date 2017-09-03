@@ -1,4 +1,4 @@
-# Android Auto 차량 탑재 목록 
+# Android Auto 지원 차량 목록 
 
 2017-09-04-03:11 기준.
 
