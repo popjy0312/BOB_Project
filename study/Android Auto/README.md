@@ -9,4 +9,60 @@ Play Store App 링크: [Android Auto App](https://play.google.com/store/apps/det
 
 20170904 기준 최신버전 v2.5.728603-release
 
-apk 파일 첨부.
+datas 폴더 내 apk 파일 첨부. (파일명: Android Auto Maps Media Messaging Voice_v2.5.728603-release_apkpure.com.apk)
+
+## 기능
+
+(영상)
+
+[![Getting Started with Android Auto](http://img.youtube.com/vi/Az8TgdsYdo8/0.jpg)](https://youtu.be/Az8TgdsYdo8)
+
+### 하나의 App, 두 가지 사용법
+
+- 휴대폰에서 실행
+- USB 잭으로 차에 연결해서 차 화면으로 실행
+
+차에서 휴대폰을 더 편하게 쓸 수 있다.
+
+### Home
+
+![AndAutoHome](./images/AndAutoHome.JPG)
+
+각종 정보들 표시
+
+### Maps
+
+![AndAutoMap](./images/AndAutoMap.JPG)
+
+Google Maps 기반 네비게이션 실행.
+
+### Music
+
+휴대폰 내의 어플에서 음악 어플 선택 가능
+
+<img src="./images/AndAutoMusicSelect.png" width="40%">
+
+구글 뮤직플레이.
+
+![AndAutoMusic](./images/AndAutoMusic.JPG)
+
+벅스를 통해 음악 플레이.
+
+<p align="center">
+<img src="./images/AndAutoMusicBugs.png" width="40%">
+</p>
+
+### Call
+
+통화기능.
+
+<p align="center">
+<img src="./images/AndAutoCall.png" width="40%">
+</p>
+
+### 추가 App들 지원
+
+지원 App 목록: [g.co/androidauto](http://g.co/androidauto)
+
+<img align="center" src="./images/AndAutoApps.JPG" width="100%">
+
