@@ -26,13 +26,17 @@ datas 폴더 내 apk 파일 첨부. (파일명: Android Auto Maps Media Messagin
 
 ### Home
 
+<p align="center">
 ![AndAutoHome](./images/AndAutoHome.JPG)
+</p>
 
 각종 정보들 표시
 
 ### Maps
 
+<p align="center">
 ![AndAutoMap](./images/AndAutoMap.JPG)
+</p>
 
 Google Maps 기반 네비게이션 실행.
 
@@ -40,7 +44,9 @@ Google Maps 기반 네비게이션 실행.
 
 휴대폰 내의 어플에서 음악 어플 선택 가능
 
+<p align="center">
 <img src="./images/AndAutoMusicSelect.png" width="40%">
+</p>
 
 구글 뮤직플레이.
 
@@ -64,5 +70,6 @@ Google Maps 기반 네비게이션 실행.
 
 지원 App 목록: [g.co/androidauto](http://g.co/androidauto)
 
+<p align="center">
 <img align="center" src="./images/AndAutoApps.JPG" width="100%">
-
+</p>
