@@ -9,7 +9,7 @@ Play Store App 링크: [Android Auto App](https://play.google.com/store/apps/det
 
 20170904 기준 최신버전 v2.5.728603-release
 
-datas 폴더 내 apk 파일 첨부. (파일명: [Android Auto Maps Media Messaging Voice_v2.5.728603-release_apkpure.com.apk](./datas/Android Auto Maps Media Messaging Voice_v2.5.728603-release_apkpure.com.apk))
+datas 폴더 내 apk 파일 첨부. (파일명: [Android Auto Maps Media Messaging Voice_v2.5.728603-release_apkpure.com.apk](./datas/Android%20Auto%20Maps%20Media%20Messaging%20Voice_v2.5.728603-release_apkpure.com.apk))
 
 ## 기능
 
@@ -83,4 +83,4 @@ Google Maps 기반 네비게이션 실행.
 
 ### Android Auto 지원 차량 목록
 
-datas 폴더의 [Android Auto Models.md](./datas/Android Auto Models.md) 참고.
+datas 폴더의 [Android Auto Models.md](./datas/Android%20Auto%20Models.md) 참고.
