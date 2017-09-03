@@ -1,0 +1,490 @@
+# Android Auto 차량 탑재 목록 
+
+2017-09-04-03:11 기준.
+
+[https://www.android.com/auto/](https://www.android.com/auto/) 참고.
+
+- Acura
+	- Acura NSX 2017-
+ 
+- Audi
+	- Audi A3 2017-
+	- Audi A4 2017-
+	- Audi A5 2017-
+	- Audi A6 2017-
+	- Audi A7 2017-
+	- Audi Q2 2017-
+	- Audi Q5 2018-
+	- Audi Q7 2016-
+	- Audi R8 2017-
+	- Audi TT 2017-
+ 
+- Borgward
+	- BX5 * 2017-
+	- BX7 * 2017-
+ 
+- Buick
+	- Encore 2017-
+	- Envision 2017-
+	- LaCrosse 2016-
+	- Regal 2016-
+ 
+- Cadillac
+	- ATS 2016-
+	- ATS Coupe 2016-
+	- ATS Sedan 2016-
+	- ATS V-Coupe 2016-
+	- ATS V-Sedan 2016-
+	- ATS-V 2016-
+	- CT6 2016-
+	- CT6 Plug-in 2017-
+	- CT6 Sedan 2016-
+	- CTS 2016-
+	- CTS Sedan 2016-
+	- CTS V-Sedan 2016-
+	- CTS-V 2016-
+	- ELR 2016
+	- Escalade 2016-
+	- Escalade ESV 2016-
+	- XT5 2017-
+	- XTS 2016-
+ 
+- Chevrolet
+	- Aveo 2017-
+	- Bolt EV 2017-
+	- Camaro 2016-
+	- Camaro Convertible 2016-
+	- Colorado 2016-
+	- Colorado/S10 2017-
+	- Corvette 2016-
+	- Corvette Convertible 2016-
+	- Cruze 2016-
+	- Cruze Hatchback 2017-
+	- Equinox 2018-
+	- Impala 2016-
+	- Malibu 2016-
+	- Onix 2017-
+	- Prisma 2017-
+	- Silverado 2016-
+	- Silverado HD 2016-
+	- Sonic 2017-
+	- Spark 2016-
+	- Suburban 2016-
+	- Tahoe 2016-
+	- Trailblazer 2017-
+	- Traverse 2018-
+	- Trax 2017-
+	- Volt 2016-
+ 
+- Chrysler
+	- 300 2017-
+ 
+- Citroën
+	- C-Elysée 2017-
+	- C3 2017-
+	- C4 2017-
+	- C4 Picasso 2017-
+	- Grand C4 Picasso 2017-
+	- Jumpy 2017-
+	- SpaceTourer 2017-
+
+- Dodge
+	- Challenger 2017-
+	- Charger 2017-
+
+- DS
+	- DS4 2017-
+	- DS5 2017-
+
+- Ford
+	- C-MAX 2017-
+	- Edge 2017-
+	- Escape 2017-
+	- Everest 2017-
+	- Expedition 2017-
+	- Explorer 2017-
+	- F-150 2017-
+	- Flex 2017-
+	- Focus 2017-
+	- Fusion 2017-
+	- Galaxy 2017-
+	- Kuga 2017-
+	- Mondeo 2017-
+	- Mustang 2017-
+	- Ranger 2017-
+	- S-MAX 2017-
+	- Super Duty 2017-
+	- Taurus 2017-
+	- Tourneo Connect 2017-
+	- Transit 2017-
+	- Transit Connect 2017-
+	- Vignale 2017-
+
+- Genesis
+	- G80 2017-
+
+- GMC
+	- Acadia 2017-
+	- Canyon 2016-
+	- Sierra 2016-
+	- Yukon 2016-
+	- Yukon Denali 2016-
+	- Yukon XL 2016-
+
+- Holden
+	- Astra 2017-
+	- Barina 2017-
+	- Captiva 2016-
+	- Colorado 2017-
+	- Spark 2016-
+	- Trailblazer 2017-
+
+- Honda
+	- Accord 2016-
+	- Civic 2016-
+	- Clarity Fuel Cell 2017-
+	- CR-V 2017-
+	- Freed 2017-
+	- Pilot 2017-
+	- Ridgeline 2017-
+
+- Hyundai
+	- Avante 2017-
+	- Azera 2015-
+	- Elantra 2017-
+	- Elantra GT 2016-
+	- Genesis 2015-
+	- Grandeur 2015-
+	- i10 2016-
+	- i30 2016-
+	- i40 2016-
+	- Ioniq Electric 2016-
+	- Ioniq Hybrid 2016-
+	- Ioniq Plug-in Hybrid 2016-
+	- Kona 2017-
+	- Maxcruz 2017-
+	- Santa Fe 2017-
+	- Santa Fe Sport 2017-
+	- Sonata 2015-
+	- Sonata Hybrid 2016-
+	- Sonata Plug-in Hybrid 2016-
+	- Tucson 2016-
+	- Veloster 2017-
+
+- Jeep
+	- Compass 2017-
+
+- JVC
+	- KW-M730BT
+	- KW-V830BT
+	- KW-V930BW
+	- KW-V930BWM
+
+- Kenwood
+	- DDX9016DABS
+	- DDX9016S
+	- DDX9016SM
+	- DDX9017DABS
+	- DDX9017S
+	- DDX9017SM
+	- DDX916WS
+	- DDX916WSL
+	- DDX916WSM
+	- DDX917WS
+	- DDX917WSM
+	- DDX9702S
+	- DDX9703S
+	- DDX9716BTS
+	- DDX9716BTSR
+	- DDX9717BTS
+	- DDX9902S
+	- DDX9903S
+	- DMX7017BTS
+	- DMX7017DABS
+	- DMX7704S
+	- DNX516DABS
+	- DNX7160BTS
+	- DNX716WDABS
+	- DNX7170DABS
+	- DNX773S
+	- DNX8160DABS
+	- DNX8160S
+	- DNX8160SM
+	- DNX8170DABS
+	- DNX893S
+	- DNX9170DABS
+	- DNX9170S
+	- DNX9170SM
+	- MDV-Z904
+	- MDV-Z904W
+
+- Kia
+	- Cadenza 2017-
+	- Carens 2017-
+	- Carnival 2015-
+	- cee'd 2017-
+	- Forte 2017-
+	- Forte Koup * 2017-
+	- Forte5 2017-
+	- K3 2017-
+	- K5 2015-
+	- K7 2017-
+	- K9 * 2019-
+	- K900 * 2019-
+	- Morning 2018-
+	- Niro 2017-
+	- Optima 2015-
+	- Optima Hybrid 2015-
+	- Optima Plug-in Hybrid 2017-
+	- Picanto 2018-
+	- Pride 2018-
+	- Rio 2018-
+	- Rondo 2017-
+	- Sedona 2015-
+	- Sorento 2016-
+	- Soul 2014-
+	- Soul EV 2015-
+	- Sportage 2017-
+	- Stinger * 2018-
+	- Stonic 2018-
+
+- Lincoln
+	- Continental 2017-
+	- MKC 2017-
+	- MKX 2017-
+	- MKZ 2017-
+	- MKZ Hybrid 2017-
+	- Navigator 2017-
+
+- Mahindra
+	- XUV500 2015-
+
+- Maruti Suzuki
+	- Dzire 2017-
+	- Ignis 2017-
+
+- Maserati
+	- Ghibli 2017-
+	- Levante 2017-
+	- Quattroporte 2017-
+
+- Mercedes-Benz
+	- A-Class 2017-
+	- B-Class 2017-
+	- CLA Coupe 2017-
+	- CLA Shooting Brake 2017-
+	- CLS Coupe 2017-
+	- CLS Shooting Brake 2017-
+	- E-Class Cabriolet 2017-
+	- E-Class Coupe 2017-
+	- E-Class Sedan 2017-
+	- E-Class Wagon 2017-
+	- GLA 2017-
+	- GLE 2017-
+	- GLE Coupe 2017-
+	- GLS 2017-
+	- Mercedes-Maybach 2018-
+	- S-Class Sedan 2018-
+	- SL 2017-
+	- SLC 2017-
+
+- Mitsubishi
+	- ASX 2017-
+	- Delica D:2 2017-
+	- Delica D:2 Custom 2017-
+	- Eclipse Cross * 2018-
+	- i-MiEV * 2017-
+	- Mirage 2017-
+	- Mirage G4 2017-
+	- Outlander 2017-
+	- Outlander PHEV 2017-
+	- Pajero 2016-
+	- Pajero Sport 2016-
+
+- Nissan
+	- MM516D-L
+	- MM516D-W
+	- MM517D-L
+	- MM517D-W
+
+- Opel
+	- Adam 2016-
+	- Amper-e 2017-
+	- Astra 2016-
+	- Corsa 2016-
+	- Crossland X 2017-
+	- Insignia 2016-
+	- Karl 2016-
+	- Mokka 2016-
+	- Zafira 2016-
+
+- Panasonic
+	- Strada CN-F1D
+
+- Peugeot
+	- 208 2017-
+	- 2008 2017-
+	- 301 2017-
+	- 308 2017-
+	- 308 SW 2017-
+	- 3008 2017-
+	- 508 2017-
+	- 508 SW 2017-
+	- 5008 2017-
+	- Expert 2017-
+	- Traveller 2017-
+
+- Pioneer
+	- AVH-2300NEX
+	- AVH-2330NEX
+	- AVH-3300NEX
+	- AVH-4100NEX
+	- AVH-4200NEX
+	- AVH-4201NEX
+	- AVH-X8700BT
+	- AVH-X8750BT
+	- AVH-X8790BT
+	- AVH-X8800BT
+	- AVH-X8850BT
+	- AVH-X8890BT
+	- AVH-Z5000BT
+	- AVH-Z5000DAB
+	- AVH-Z5050BT
+	- AVH-Z5050TV
+	- AVH-Z5080TV
+	- AVH-Z5090BT
+	- AVH-Z7000DAB
+	- AVH-Z7050BT
+	- AVH-Z7050TV
+	- AVH-Z7080TV
+	- AVIC-7100NEX
+	- AVIC-7200NEX
+	- AVIC-7201NEX
+	- AVIC-8100NEX
+	- AVIC-8200NEX
+	- AVIC-8201NEX
+	- AVIC-F70BT
+	- AVIC-F70DAB
+	- AVIC-F70TV
+	- AVIC-F77DAB
+	- AVIC-F80BT
+	- AVIC-F80DAB
+	- AVIC-F80TV
+	- AVIC-F88DAB
+	- FH-9300DVS
+
+- Renault
+	- Captur 2017-
+	- Clio 2017-
+	- Clio Estate 2017-
+	- Espace 2017-
+	- Grand Scénic 2017-
+	- Kadjar 2017-
+	- Kangoo 2017-
+	- Koleos 2017-
+	- Master * 2017-
+	- Mégane 2017-
+	- Mégane Estate 2017-
+	- Scénic 2017-
+	- Talisman 2017-
+	- Talisman Estate 2017-
+	- Trafic 2017-
+	- Twingo 2017-
+	- ZOE 2017-
+
+- Seat
+	- Alhambra 2016-
+	- Arona * 2017-
+	- Ateca 2016-
+	- Ibiza 2016-
+	- León 2016-
+	- Toledo 2016-
+
+- Škoda
+	- Fabia 2016-
+	- Fabia Combi 2016-
+	- Karoq * 2018-
+	- Kodiaq 2017-
+	- Octavia 2016-
+	- Octavia Combi 2016-
+	- Rapid 2016-
+	- Rapid Spaceback 2016-
+	- Superb 2016-
+	- Superb Combi 2016-
+	- Yeti 2016-
+
+- Sony
+	- XAV-AX100
+	- XAV-AX200 *
+
+- SsangYong
+	- G4 Rexton 2017-
+
+- Subaru
+	- BRZ * 2018-
+	- Impreza 2017-
+	- Legacy Outback * 2018-
+
+- Suzuki
+	- Hustler 2016-
+	- Ignis 2016-
+	- Lapin 2016-
+	- Solio 2016-
+	- Solio Bandit 2016-
+	- Spacia 2016-
+	- Spacia Custom 2016-
+	- Spacia Custom Z 2016-
+	- Swift 2016-
+	- WagonR 2016-
+	- WagonR Stingray 2016-
+
+- Vauxhall
+	- Adam 2016-
+	- Amper-e 2017-
+	- Astra 2016-
+	- Corsa 2016-
+	- Crossland X 2017-
+	- Insignia 2016-
+	- Mokka 2016-
+	- Viva 2016-
+	- Zafira 2016-
+
+- Volkswagen Passenger Cars:
+    - Arteon 2017-
+	- Atlas 2017-
+	- Beetle 2016-
+	- Beetle Cabriolet 2016-
+	- CC 2016-
+	- CrossFox 2017-
+	- Fox 2017-
+	- Gol 2017-
+	- Golf 2016-
+	- Golf Cabriolet 2016-
+	- Golf Sportsvan 2016-
+	- Golf Variant 2016-
+	- Jetta 2016-
+	- NMS-Passat 2016-
+	- Passat 2016-
+	- Passat Variant 2016-
+	- Polo 2016-
+	- Saveiro 2017-
+	- Scirocco 2016-
+	- Sharan 2016-
+	- Tiguan 2016-
+	- Touran 2016-
+	- Voyage 2017-
+
+- Volkswagen Commercial Vehicles:
+    - Amarok 2016-
+	- Caddy 2016-
+	- California 2016-
+	- Caravelle 2016-
+	- Crafter 2017-
+	- Multivan 2016-
+	- Transporter 2016-
+
+- Volvo
+	- S90
+	- V90
+	- V90 Cross Country
+	- XC90

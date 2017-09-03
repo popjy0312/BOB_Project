@@ -27,7 +27,7 @@ datas 폴더 내 apk 파일 첨부. (파일명: Android Auto Maps Media Messagin
 ### Home
 
 <p align="center">
-![AndAutoHome](./images/AndAutoHome.JPG)
+<img src="./images/AndAutoHome.JPG" width="40%">
 </p>
 
 각종 정보들 표시
@@ -35,7 +35,7 @@ datas 폴더 내 apk 파일 첨부. (파일명: Android Auto Maps Media Messagin
 ### Maps
 
 <p align="center">
-![AndAutoMap](./images/AndAutoMap.JPG)
+<img src="./images/AndAutoMap.JPG" width="40%">
 </p>
 
 Google Maps 기반 네비게이션 실행.
@@ -48,11 +48,13 @@ Google Maps 기반 네비게이션 실행.
 <img src="./images/AndAutoMusicSelect.png" width="40%">
 </p>
 
-구글 뮤직플레이.
+- 구글 뮤직플레이.
 
-![AndAutoMusic](./images/AndAutoMusic.JPG)
+<p align="center">
+<img src="./images/AndAutoMusic.JPG" width="40%">
+</p>
 
-벅스를 통해 음악 플레이.
+- 벅스를 통해 음악 플레이.
 
 <p align="center">
 <img src="./images/AndAutoMusicBugs.png" width="40%">
@@ -71,5 +73,10 @@ Google Maps 기반 네비게이션 실행.
 지원 App 목록: [g.co/androidauto](http://g.co/androidauto)
 
 <p align="center">
-<img align="center" src="./images/AndAutoApps.JPG" width="100%">
+<img src="./images/AndAutoApps.JPG" width="100%">
 </p>
+
+```
+이 앱들은 그냥 Android Auto 하면서 동시에 실행 가능한 앱들 목록인듯.
+원래는 홈키나 다른곳으로 넘어갈라그러면 Android Auto 꺼지는데 이 앱들은 실행 가능함.
+```
