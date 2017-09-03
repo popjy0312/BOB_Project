@@ -115,5 +115,31 @@ by Dr. Charlie Miller, Chris Valasek
 
 
 ```
-이후 내용들은 추후에 업데이트....
+공격 상세설명 생략...
 ```
+
+## The entire exploit chain
+
+어떻게 Jeep를 원격에서 full exploit 했는지 요약.
+
+### Identify target
+
+차량의 IP를 알아야한다. 임의의 차량들에대해 무작위로 공격하려면 걍 랜덤으로 해도 된다. VIN(Vehicle Identifiation Number)이나 GPS를 알고있으면, 스캔 할 수도 있다.
+
+### Exploit OMAP chip of head unit
+
+IP주소 얻었으면 D-Bus service 이용해서 코드 실행 가능. 가장 쉬운 방법은 SSH public key, configuration file 올리고 SSH실행하는것. 그러면 원격에서 차량에 SSH로 연결 가능. 
+
+### Control the Uconnect System
+
+CAN 관련 없는 공격을 하려면 LUA 스크립트만 있으면 된다. 사실 대부분의 기능은 code를 실행하지 않고 D-Bus만을 사용하여 수행 될 수 있다. 다른것도 하려면 계속읽으세요...
+
+### Flash the v850 with modified firmware
+
+수정된 v850 firmware로 시스템 업데이트.
+
+### Perform cyber physical actions
+
+SPI를 이용하여 OMAP 칩에서 수정된 v850으로 CAN message 전달. 이를 위해서는 2013년의 연구와 유사한 연구 필요. [[3]](http://illmatics.com/content.zip)
+
+
